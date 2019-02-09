@@ -1,2 +1,2 @@
 ## fynjy21.github.io
-Мое персональное портфолио
+Repo for my personal portfolio
