@@ -1,2 +1,2 @@
-## fynjy21.github.io
+## avtrostyanko.github.io
 Repo for my personal portfolio
